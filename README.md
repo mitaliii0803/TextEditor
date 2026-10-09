@@ -1,4 +1,3 @@
-# TextEditor
 # Simple Text Editor using Python
 
 A simple text editor built using Python and Tkinter. It provides a graphical user interface for creating, opening, editing, and saving text files. It also includes useful text-editing features such as Find & Replace, Undo, Redo, and real-time word and character counting.
@@ -26,7 +25,8 @@ A simple text editor built using Python and Tkinter. It provides a graphical use
 3. Open the project folder in your terminal.
 4. Run the following command:
 
-   ```bashmain.py
+   ```bash
+   python main.py
    ```
 
 ## Learning Outcomes
